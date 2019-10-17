@@ -1,0 +1,6 @@
+framework module EjuPropertyLib {
+  umbrella header "EjuPropertyLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
