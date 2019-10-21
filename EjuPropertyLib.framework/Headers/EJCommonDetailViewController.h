@@ -1,9 +1,9 @@
 //
-//  EJCommonViewController.h
+//  EJCommonDetailViewController.h
 //  EjuPropertyLib_Example
 //
 //  Created by Fane on 2019/10/17.
-//  Copyright © 2019 Fane. All rights reserved.
+//  Copyright © 2019 faneyoung@126.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -11,8 +11,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface EJCommonViewController : EjuBaseViewController
-- (void)logTest:(NSString*)pms;
+@interface EJCommonDetailViewController : EjuBaseViewController
 
 @end
 

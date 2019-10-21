@@ -10,7 +10,10 @@
 #endif
 #endif
 
+#import "EJCommonDetailViewController.h"
 #import "EJCommonViewController.h"
+#import "EjuBaseViewController.h"
+#import "EjuPropertyLib.h"
 
 FOUNDATION_EXPORT double EjuPropertyLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char EjuPropertyLibVersionString[];

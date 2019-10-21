@@ -4,25 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>EJCommonDetailViewController.nib/objects-11.0+.nib</key>
+		<data>
+		rjKrGiWUZgHpUiunne6I7CPZCDc=
+		</data>
+		<key>EJCommonDetailViewController.nib/objects-13.0+.nib</key>
+		<data>
+		Hy5BF58+V7i2CKgLdtNj+3t+tGY=
+		</data>
+		<key>EJCommonDetailViewController.nib/runtime.nib</key>
+		<data>
+		6x2vyYGQNCBaTwiwNwwuYOhMi/w=
+		</data>
 		<key>EJCommonViewController.nib/objects-11.0+.nib</key>
 		<data>
-		htEAdczo3dUrIuztkzsXOD/4/eE=
+		q7Y7aj/hPG8Prn3xshA/sLxfud8=
 		</data>
 		<key>EJCommonViewController.nib/objects-13.0+.nib</key>
 		<data>
-		B+ok6sIYwmob3fqmgGmqrqI8NC0=
+		3irbl/cSLfZzYr3kPqLnsdnTY20=
 		</data>
 		<key>EJCommonViewController.nib/runtime.nib</key>
 		<data>
-		auBM4hB8590C2xOkbgokiuMYaxw=
+		rhw7dwnUzyrDFk6Bd0uW1D05faU=
+		</data>
+		<key>Headers/EJCommonDetailViewController.h</key>
+		<data>
+		Yrod5hOhcElldwpBGM97RuEVD4g=
 		</data>
 		<key>Headers/EJCommonViewController.h</key>
 		<data>
-		gzRabgj0+eseSfazguFg93xOhBQ=
+		YPqoPOq4FZqHl+BA6hkSFNAOGb0=
+		</data>
+		<key>Headers/EjuBaseViewController.h</key>
+		<data>
+		AGBT3dwelgWpzrhnrq8/u4wwQQ4=
 		</data>
 		<key>Headers/EjuPropertyLib-umbrella.h</key>
 		<data>
-		SC8uSsrgZUHbUpINhmF1eoLreeA=
+		c8gyaUhXsaLNJYnVGYd/Sttgumw=
+		</data>
+		<key>Headers/EjuPropertyLib.h</key>
+		<data>
+		Eiisw5x0RSkoVFsg49QEVZfqkDo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -32,62 +56,132 @@
 		<data>
 		ygYq6c9EDlKzAs1nWAPp3PfMlyo=
 		</data>
+		<key>config.json</key>
+		<data>
+		I6Fhl8TOskosgrHwYpQmh0jBo+g=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>EJCommonDetailViewController.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rjKrGiWUZgHpUiunne6I7CPZCDc=
+			</data>
+			<key>hash2</key>
+			<data>
+			3aLIy5DqVZ0/h7aqBAm9fNboicD1aI7mufbI8Y5vOQk=
+			</data>
+		</dict>
+		<key>EJCommonDetailViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hy5BF58+V7i2CKgLdtNj+3t+tGY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ur5QJ1U298wUdlyOPOM4VYfqnj6u7bxlJgeDeSmcwDk=
+			</data>
+		</dict>
+		<key>EJCommonDetailViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6x2vyYGQNCBaTwiwNwwuYOhMi/w=
+			</data>
+			<key>hash2</key>
+			<data>
+			SjYVAprszJrX9szRzsuxPNsS5euof1pm5ISu7DTYJLo=
+			</data>
+		</dict>
 		<key>EJCommonViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			htEAdczo3dUrIuztkzsXOD/4/eE=
+			q7Y7aj/hPG8Prn3xshA/sLxfud8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ap0XPh3dPn/OK2alUtZa73icXQbNKAuj90pGNDzx4Ag=
+			10uNeWh77Vsa36uLA2TDQ8rUDckpS8htvHp7gGzJLaA=
 			</data>
 		</dict>
 		<key>EJCommonViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B+ok6sIYwmob3fqmgGmqrqI8NC0=
+			3irbl/cSLfZzYr3kPqLnsdnTY20=
 			</data>
 			<key>hash2</key>
 			<data>
-			qHN851yyjJ7gKb6r3DAh2CqhZHh+NsZWxD+7RdVfCaU=
+			VluLqz7rHfBGEApwOaSNjpEQkhVDFbqGxQQ9wjG7J50=
 			</data>
 		</dict>
 		<key>EJCommonViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			auBM4hB8590C2xOkbgokiuMYaxw=
+			rhw7dwnUzyrDFk6Bd0uW1D05faU=
 			</data>
 			<key>hash2</key>
 			<data>
-			boVFMx2HeK6EMDxJTjzLgsi/eXjkRUhmHDOfAhwPDP4=
+			BE2hZNyNRJd90/g0W13T5tNfQLsYRj8mOiY+GGmYw0Y=
+			</data>
+		</dict>
+		<key>Headers/EJCommonDetailViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yrod5hOhcElldwpBGM97RuEVD4g=
+			</data>
+			<key>hash2</key>
+			<data>
+			jC2VWJOx2f8v40lDnq9MB6PYMsax11qjTPVcLWDzpRA=
 			</data>
 		</dict>
 		<key>Headers/EJCommonViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gzRabgj0+eseSfazguFg93xOhBQ=
+			YPqoPOq4FZqHl+BA6hkSFNAOGb0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GY6idS51PVCknO9ZGyDUTYkXVfZUDxFC/1gyjohcwAA=
+			X/zWDMfVPpQBmk0i6I0LgQoF0ofOx1P/Lx/8YihajrA=
+			</data>
+		</dict>
+		<key>Headers/EjuBaseViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AGBT3dwelgWpzrhnrq8/u4wwQQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SV/slw5H79R0uMMLgIBG2xYbPwTmKgRp1JZuLbWX5zI=
 			</data>
 		</dict>
 		<key>Headers/EjuPropertyLib-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SC8uSsrgZUHbUpINhmF1eoLreeA=
+			c8gyaUhXsaLNJYnVGYd/Sttgumw=
 			</data>
 			<key>hash2</key>
 			<data>
-			B581lNP4bckvFCxiJI9NMCb1hn7haw9LlbeNiRJ4mpU=
+			7jsfiQ7xV3mExQRC2AKDwhxNgM7h9BMGjOC1uuaVq6I=
+			</data>
+		</dict>
+		<key>Headers/EjuPropertyLib.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Eiisw5x0RSkoVFsg49QEVZfqkDo=
+			</data>
+			<key>hash2</key>
+			<data>
+			A0o5uQnTdwMqbIo77RuSOXjibBBgl19fT6+pELbUQSI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -99,6 +193,17 @@
 			<key>hash2</key>
 			<data>
 			1MBSbAzvsm9bw5MX03O1xkOnXlHg/ucLiF/3HsWWmFc=
+			</data>
+		</dict>
+		<key>config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I6Fhl8TOskosgrHwYpQmh0jBo+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y41YHSt4WgysKY42k3hycphd27DoKK/zIWMXd5BgEvU=
 			</data>
 		</dict>
 	</dict>
